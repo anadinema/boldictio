@@ -10,7 +10,6 @@ import java.util.List;
 @Data
 @NoArgsConstructor
 public class DictionaryResponse {
-
     @JsonProperty("word")
     private String word;
     @JsonProperty("phonetic")
@@ -23,5 +22,4 @@ public class DictionaryResponse {
     private License license;
     @JsonProperty("sourceUrls")
     private List<String> sourceUrls;
-
 }
