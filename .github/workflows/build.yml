@@ -1,8 +1,19 @@
-name: Docker - Build and Push
+name: Maven build
 on:
   push:
     tags:        
       - v1.*
+      - v2.*
+      - v3.*
+      - v4.*
+      - v5.*
+    branches:
+      - master
+  pull_request:
+    types:
+      - merged
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
