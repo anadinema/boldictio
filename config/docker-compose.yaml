@@ -1,0 +1,17 @@
+# Compose file for the boldictio application
+version: '3.3'
+
+services:
+  boldictio-service:
+    image: bittybit/boldictio-backend:latest
+    container_name: boldictio
+    environment:
+      SERVER_PORT: 8081
+      DICTIONARY_API_BASE_URL: 'https://api.dictionaryapi.dev/api/'
+      DICTIONARY_API_VERSION: v2
+      DICTIONARY_API_CONNECT_TIMEOUT: 250
+      DICTIONARY_API_READ_TIMEOUT: 3000
+      MANAGE_ENDPOINTS_LIST: health,info,prometheus
+    restart: on-failure
+    ports:
+      - $SERVER_PORT:$SERVER_PORT
