@@ -3,7 +3,7 @@ version: '3.3'
 
 services:
   boldictio-service:
-    image: bittybit/boldictio-backend:latest
+    image: bittybit/boldictio-backend:${TAG}
     container_name: boldictio
     environment:
       SERVER_PORT: 8081
@@ -14,4 +14,4 @@ services:
       MANAGE_ENDPOINTS_LIST: health,info,prometheus
     restart: on-failure
     ports:
-      - $SERVER_PORT:$SERVER_PORT
+      - ${SERVER_PORT}:${SERVER_PORT}
