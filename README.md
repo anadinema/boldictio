@@ -4,10 +4,8 @@ Boldictio is a web dictionary for English language which provides the meaning, s
 
 The development for actual dictionary web application is in progress in boldictio repository under frontend directory. However, the backend APIs are ready to use.
 
-[![Build](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
-
 <a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
-    <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build"/>
+    <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build?logo=GitHub"/>
 </a>
 <a href="https://github.com/anadinema99/boldictio/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/anadinema99/boldictio"/>
