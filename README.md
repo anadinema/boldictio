@@ -18,7 +18,7 @@ mvn clean install
 
 Check the API documentation below and use postman to use the API.
 
-<a href="https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0">
+<a href="https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
 </a>
 
