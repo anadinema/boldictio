@@ -1,15 +1,17 @@
 # Boldictio - The bold dictionary
 
-Boldictio is a web dictionary for English language which provides the meaning, synonyms, antonyms and media (pronunciations, images) which is at the backend connecting to APIs for getting different tags in place.
-
-The development for actual dictionary web application is in progress in boldictio repository under frontend directory. However, the backend APIs are ready to use.
-
 <a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
     <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build?logo=GitHub"/>
-</a>
+</a> | 
 <a href="https://github.com/anadinema99/boldictio/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/anadinema99/boldictio"/>
 </a>
+
+## About
+
+Boldictio is a web dictionary for English language which provides the meaning, synonyms, antonyms and media (pronunciations, images) which is at the backend connecting to APIs for getting different tags in place.
+
+The development for actual dictionary web application is in progress in boldictio repository under frontend directory. However, the backend APIs are ready to use.
 
 ## Installation
 
