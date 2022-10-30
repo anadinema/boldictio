@@ -1,0 +1,14 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Boldictio",
+    "description" : "Boldictio is a web dictionary for English language which provides the meaning, synonyms, antonyms and media (pronunciations, images) which is at the backend connecting to APIs for getting different tags in place.",
+    "version" : "1.0.0"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/NEMAANADI99/boldictio-app/1.0.0",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
