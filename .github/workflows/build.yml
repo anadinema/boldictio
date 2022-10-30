@@ -7,8 +7,6 @@ on:
       - v3.*
       - v4.*
       - v5.*
-    branches:
-      - master
   pull_request:
     types:
       - merged
