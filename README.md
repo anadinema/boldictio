@@ -3,6 +3,9 @@
 <a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
     <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build?logo=GitHub"/>
 </a>
+<a href="https://app.swaggerhub.com/apis-docs/NEMAANADI99/boldictio-app/1.0.0">
+    <img src="https://img.shields.io/swagger/valid/3.0?logo=swagger&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fanadinema99%2Fboldictio%2Fmaster%2Fconfig%2Fapi-specs%2Fswagger.json&style=plastic"/>
+</a>
 <a href="https://hub.docker.com/repository/docker/bittybit/boldictio-backend">
     <img src="https://img.shields.io/docker/v/bittybit/boldictio-backend?logo=docker&sort=date"/>
 </a>
