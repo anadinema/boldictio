@@ -4,7 +4,7 @@ Boldictio is a web dictionary for English language which provides the meaning, s
 
 The development for actual dictionary web application is in progress in boldictio repository under frontend directory. However, the backend APIs are ready to use.
 
-[![Docker - Build and Push](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
+[![Build](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
 
 * [![Swagger][Swagger-Icon]][Swagger-Url]
 
