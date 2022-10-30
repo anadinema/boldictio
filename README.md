@@ -8,7 +8,7 @@ The development for actual dictionary web application is in progress in boldicti
 
 ## Installation
 
-Use the package manager [maven](https://maven.apache.org/download.cgi) to build the Boldictio backend.
+Use [maven](https://maven.apache.org/download.cgi) to build the backend.
 
 ```bash
 mvn clean install
@@ -16,7 +16,7 @@ mvn clean install
 
 ## Usage
 
-Check the API documentation below and use postman to use the API.
+Check the API documentation below and use postman to trigger the API.
 
 <a href="https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
