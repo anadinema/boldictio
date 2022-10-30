@@ -3,6 +3,9 @@
 <a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
     <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build?logo=GitHub"/>
 </a>
+<a href="https://hub.docker.com/repository/docker/bittybit/boldictio-backend">
+    <img src="https://img.shields.io/docker/v/bittybit/boldictio-backend?logo=docker&sort=date"/>
+</a>
 <a href="https://github.com/anadinema99/boldictio/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/anadinema99/boldictio"/>
 </a>
