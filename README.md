@@ -6,7 +6,7 @@ The development for actual dictionary web application is in progress in boldicti
 
 [![Docker - Build and Push](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
 
-* [![Next][SwaggerIcon]][SwaggerUrl]
+* [![Swagger][Swagger-Icon]][Swagger-Url]
 
 ## Installation
 
@@ -40,5 +40,5 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 !-- MARKDOWN LINKS & IMAGES -->
-[SwaggerIcon]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white
-[SwaggerUrl]: https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0
+[Swagger-Icon]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white
+[Swagger-Url]: https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0
