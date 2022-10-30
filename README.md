@@ -2,7 +2,7 @@
 
 <a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
     <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build?logo=GitHub"/>
-</a> | 
+</a>
 <a href="https://github.com/anadinema99/boldictio/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/anadinema99/boldictio"/>
 </a>
