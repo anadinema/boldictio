@@ -1,4 +1,4 @@
-name: Maven build
+name: build
 on:
   push:
     tags:        
