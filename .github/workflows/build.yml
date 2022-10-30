@@ -1,4 +1,4 @@
-name: Maven build
+name: build
 on:
   push:
     tags:        
@@ -7,8 +7,6 @@ on:
       - v3.*
       - v4.*
       - v5.*
-    branches:
-      - master
   pull_request:
     types:
       - merged
