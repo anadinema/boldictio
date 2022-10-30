@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @OpenAPIDefinition(info = @Info(title = "Boldictio API services", version = "1.0.0",
         description = "Service exposing endpoint to server the frontend for the Boldictio dictionary application",
         license = @License(name = "MIT License", url = "https://github.com/anadinema99/boldictio/blob/master/LICENSE.md"),
-        contact = @Contact(name = "Anadi Nema", email = "anadi.nema@outlook.com", url = "https:\\\\anadinema.me\\contact")))
+        contact = @Contact(name = "Anadi Nema", email = "anadi.nema@outlook.com", url = "https://anadinema.me/contact")))
 @SpringBootApplication
 public class BoldictioApplication {
     public static void main(String[] args) {
