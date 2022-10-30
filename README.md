@@ -1,4 +1,4 @@
-## Boldictio - The bold dictionary
+# Boldictio - The bold dictionary
 
 Boldictio is a web dictionary for English language which provides the meaning, synonyms, antonyms and media (pronunciations, images) which is at the backend connecting to APIs for getting different tags in place.
 
@@ -6,30 +6,21 @@ The development for actual dictionary web application is in progress in boldicti
 
 [![Build](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
 
-* [![Swagger][Swagger-Icon]][Swagger-Url]
-
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [maven](https://maven.apache.org/download.cgi) to build the Boldictio backend.
 
 ```bash
-pip install foobar
+mvn clean install
 ```
 
 ## Usage
 
-```python
-import foobar
+Check the API documentation below and use postman to use the API.
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+<a href="https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+</a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -37,8 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-!-- MARKDOWN LINKS & IMAGES -->
-[Swagger-Icon]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white
-[Swagger-Url]: https://app.swaggerhub.com/apis/NEMAANADI99/boldictio-app/1.0.0
+[MIT](https://github.com/anadinema99/boldictio/blob/master/LICENSE.md)
