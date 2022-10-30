@@ -6,6 +6,13 @@ The development for actual dictionary web application is in progress in boldicti
 
 [![Build](https://github.com/anadinema99/boldictio/actions/workflows/build.yml/badge.svg)](https://github.com/anadinema99/boldictio/actions/workflows/build.yml)
 
+<a href="https://github.com/anadinema99/boldictio/actions/workflows/build.yml">
+    <img src="https://img.shields.io/github/workflow/status/anadinema99/boldictio/build"/>
+</a>
+<a href="https://github.com/anadinema99/boldictio/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/github/license/anadinema99/boldictio"/>
+</a>
+
 ## Installation
 
 Use [maven](https://maven.apache.org/download.cgi) to build the backend.
@@ -26,6 +33,3 @@ Check the API documentation below and use postman to trigger the API.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://github.com/anadinema99/boldictio/blob/master/LICENSE.md)
